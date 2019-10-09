@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+<body>    <table  border="1" cellpadding="0" cellspacing="0" width="50%" align="center" class="">
+        <thead>
+        <tr class="table_list_head">
+                        <td width="5%"><strong>№</strong></td>
+                        <td width="5%"><strong>ПІБ студента</strong></td>
+                        <td width="5%"><strong>Логін</strong></td>
+                        <td width="5%"><strong>Пароль</strong></td>
+                        <td width="5%"><strong>E-mail</strong></td>
+                    </tr>
+        </thead>
+                    <tr class="table_list_head">
+                            <td width="5%">1</td>
+                            <td width="5%">Березовський Ігор Миколайович</td>
+                            <td width="5%">bim63741</td>
+                            <td width="5%">b7b85638</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">2</td>
+                            <td width="5%">Беренко Ярослав Олександрович</td>
+                            <td width="5%">byo63788</td>
+                            <td width="5%">d9dd3dc9</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">3</td>
+                            <td width="5%">Биков Павло Ігорович</td>
+                            <td width="5%">bpi63780</td>
+                            <td width="5%">3d4c5dc4</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">4</td>
+                            <td width="5%">Бузян Святослав Олександрович</td>
+                            <td width="5%">bso63445</td>
+                            <td width="5%">k7f9bc99</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">5</td>
+                            <td width="5%">Василюк Богдан Вікторович</td>
+                            <td width="5%">vbv63361</td>
+                            <td width="5%">4cddd692</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">6</td>
+                            <td width="5%">Гавриленко Іван Олександрович</td>
+                            <td width="5%">gio63785</td>
+                            <td width="5%">c7c3dd5c</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">7</td>
+                            <td width="5%">Ганжа Яна Володимирівна</td>
+                            <td width="5%">gyv63637</td>
+                            <td width="5%">d4dfad39</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">8</td>
+                            <td width="5%">Зінченко Андрій Юрійович</td>
+                            <td width="5%">zaj63789</td>
+                            <td width="5%">fee4dbd7</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">9</td>
+                            <td width="5%">Калінін Денис Валентинович</td>
+                            <td width="5%">kdv63391</td>
+                            <td width="5%">979a9799</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">10</td>
+                            <td width="5%">Карпенко Руслан Сергійович</td>
+                            <td width="5%">krs63400</td>
+                            <td width="5%">2ka955d5</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">11</td>
+                            <td width="5%">Клименко Олексій Віталійович</td>
+                            <td width="5%">kov63700</td>
+                            <td width="5%">dd6d8d22</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">12</td>
+                            <td width="5%">Ковба Денис Ігорович</td>
+                            <td width="5%">kdi63438</td>
+                            <td width="5%">f8d959dd</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">13</td>
+                            <td width="5%">Маслак Михайло Олексійович</td>
+                            <td width="5%">mmo63443</td>
+                            <td width="5%">caek8cbe</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">14</td>
+                            <td width="5%">Мороз Іван Миколайович</td>
+                            <td width="5%">mim63675</td>
+                            <td width="5%">dkkk385d</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">15</td>
+                            <td width="5%">Нескородов Владислав Володимирович</td>
+                            <td width="5%">nvv63683</td>
+                            <td width="5%">7ed5f8k7</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">16</td>
+                            <td width="5%">Піденко Кирило Олександрович</td>
+                            <td width="5%">pko63413</td>
+                            <td width="5%">4daed937</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">17</td>
+                            <td width="5%">Самсоненко Ярослав Юрійович</td>
+                            <td width="5%">syj63447</td>
+                            <td width="5%">3d8a24df</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">18</td>
+                            <td width="5%">Сахненко Владислав Віталійович</td>
+                            <td width="5%">svv63422</td>
+                            <td width="5%">bbceddaf</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">19</td>
+                            <td width="5%">Таран Аліна Олександрівна</td>
+                            <td width="5%">tao63654</td>
+                            <td width="5%">d979455k</td>
+                            <td width="5%"></td>
+                        </tr>
+                    <tr class="table_list_head">
+                            <td width="5%">20</td>
+                            <td width="5%">Тєльчарова Діана Олександрівна</td>
+                            <td width="5%">tdo63659</td>
+                            <td width="5%">26k764ke</td>
+                            <td width="5%"></td>
+                        </tr>
+            </table>
+
+</body></html>
